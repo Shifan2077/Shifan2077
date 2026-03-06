@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**Shifan2077/Shifan2077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm [Shifan](https://shifannagarji.netlify.app), a tech enthusiast and developer based in India.
 
-Here are some ideas to get you started:
+I like building things with code and experimenting with new technologies.
+If an idea comes to my mind, I usually try to turn it into a project.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main tech stack is Angular, Typescript, Tailwind. I like to use the tools like Figma, Canva and speed up my work with AI tools.
+
+I have a bunch of projects and my latest one is AI Study Tool.<br>
+My CCTV project was succesfully implemented and helped the client a lot.
+<br>
+<br>
+<br>
+Fun Facts:
+
+&nbsp;&nbsp;• I enjoy experimenting with tech setups and servers.<br>
+&nbsp;&nbsp;• I like learning by building real projects.<br>
+&nbsp;&nbsp;• I like solving real world problems.<br>
